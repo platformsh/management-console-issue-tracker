@@ -19,4 +19,13 @@ This repository is not suitable for support requests. Support can take place thr
 
 # Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute to the CLI.
+Development of the Platform.sh UI happens in a private repository elsewhere. 
+
+However, feature requests and bug reports found on the Platform.sh UI are very welcome, and can be submitted as a GitHub Issue in this repository.
+
+Before reporting a bug or submit a feature request, make sure that the issue has not already been reported by [browsing the existing issues](https://github.com/platformsh/platformsh-ui-issue-tracker/issues). 
+
+If not, please [create an issue](https://github.com/platformsh/platformsh-ui-issue-tracker/issues/new/choose).
+
+
+Thanks in advance for your help!
