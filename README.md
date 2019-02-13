@@ -2,7 +2,7 @@
 
 Welcome to the Platform.sh UI public issue tracker repository. 
 
-Here you can submit feature requests or report bugs found on the Platform.sh UI. Feel free to also join us on our [#platformsh Slack channel](https://chat.platform.sh).
+Here you can submit feature requests or report bugs found on the Platform.sh UI. Feel free to also join us on our [#platformsh](https://chat.platform.sh) Slack channel.
 
 # Documentation
 
@@ -15,7 +15,7 @@ The [Platform.sh documentation](https://docs.platform.sh) is opened to contribut
 This repository is not suitable for support requests. Support can take place through the appropriate channels:
 
 * The [Platform.sh support portal](https://accounts.platform.sh/support/).
-* The [#platformsh Slack channel](https://chat.platform.sh/).
+* The [#platformsh](https://chat.platform.sh/) Slack channel.
 
 # Contributing
 
