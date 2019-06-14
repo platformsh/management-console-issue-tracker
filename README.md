@@ -1,4 +1,4 @@
-<p align="center"><a href="https://platform.sh"><img src="https://platform.sh/themes/custom/platformsh/images/platformsh-logos/psh-light@2x.png" alt="Platform.sh"></a></p>
+<p align="center"><a href="https://platform.sh"><img src="https://platform.sh/logos/redesign/Platformsh_logo_black.svg" width="360" alt="Platform.sh"></a></p>
 
 Welcome to the Platform.sh UI public issue tracker repository. 
 
